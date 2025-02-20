@@ -1,8 +1,8 @@
 # Hi there, I'm Sagar 👋  
 
-🚀 Web Developer | 📊 Digital Marketer | 🎨 Canva Designer  
-
-- 🔭 I’m currently working on **Web Development & Digital Marketing**
+🚀 Web Developer | 📊 Digital Marketer | 
+- 🔭 I'm a **Full-Stack Developer** with a strong background in WordPress development, front-end & back-end technologies, and digital marketing.
+- 💼 I build dynamic, user-friendly, and scalable web applications—and I'm continuously exploring emerging areas like IoT and automation.
 - 🌱 Exploring **IoT & Web Technologies** (Raspberry Pi, Python, APIs)
 - 💡 Learning **React.js & Next.js** for modern web development
 - 💼 Looking for opportunities to grow and build my tech business  
