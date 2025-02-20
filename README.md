@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developing, AI & Robotics
 - 🌱 I’m currently working for Backend Development 
 - 💞️ I’m looking to collaborate on Company Team 
-- 😄 Pronouns: Sage The Back-up Supporter 
+- 😄 Pronouns: Sage.... The Back-up
 - ⚡ Fun fact: My Team Dosen't allow me to Go outing Alone :))
 
 <!---
